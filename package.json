@@ -1,6 +1,6 @@
 {
   "name": "berycore",
-  "version": "4.1.10",
+  "version": "4.1.19",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -90,10 +90,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "berycore-lib": "^0.13.22",
-    "berycore-node": "^3.1.11",
-    "insight-bery-api": "^0.4.4",
-    "insight-bery-ui": "^0.4.2"
+    "berycore-lib": "^0.15.38",
+    "berycore-node": "^5.0.01",
+    "insight-bery-api": "^5.0.01",
+    "insight-bery-ui": "^5.0.01"
   },
   "license": "MIT",
   "devDependencies": {
