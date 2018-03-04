@@ -1,5 +1,5 @@
 'use strict';
 
-var litecore = require('litecore-lib');
+var berycore = require('berycore-lib');
 
-module.exports = litecore;
+module.exports = berycore;

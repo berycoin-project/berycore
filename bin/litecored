@@ -3,7 +3,7 @@
 'use strict';
 
 var path = require('path');
-var litecored = require('litecore-node/lib/cli/bitcored');
+var berycored = require('berycore-node/lib/cli/bitcored');
 var servicesPath = path.resolve(__dirname, '../');
-var additionalServices = ['insight-lite-api', 'insight-lite-ui'];
-litecored(servicesPath, additionalServices);
+var additionalServices = ['insight-bery-api', 'insight-bery-ui'];
+berycored(servicesPath, additionalServices);
