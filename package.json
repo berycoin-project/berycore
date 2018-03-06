@@ -1,6 +1,6 @@
 {
   "name": "berycore",
-  "version": "4.1.19",
+  "version": "4.1.20",
   "description": "A platform to build bitcoin and blockchain-based applications.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
